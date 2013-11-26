@@ -186,4 +186,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/lge/geeb/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/lge/geeb/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
-    vendor/lge/geeb/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so 
+    vendor/lge/geeb/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
+    vendor/lge/geeb/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so
