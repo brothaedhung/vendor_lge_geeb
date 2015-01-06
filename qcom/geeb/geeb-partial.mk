@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/qcom/geeb/proprietary/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so:qcom \
     vendor/lge/qcom/geeb/proprietary/flp.msm8960.so:system/lib/hw/flp.msm8960.so:qcom \
     vendor/lge/qcom/geeb/proprietary/gps.msm8960.so:system/lib/hw/gps.msm8960.so:qcom \
+    vendor/lge/qcom/geeb/proprietary/nfc.default.so:system/lib/hw/nfc.default.so:qcom \
     vendor/lge/qcom/geeb/proprietary/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so:qcom \
     vendor/lge/qcom/geeb/proprietary/libadreno_utils.so:system/vendor/lib/libadreno_utils.so:qcom \
     vendor/lge/qcom/geeb/proprietary/libaudcal.so:system/lib/libaudcal.so:qcom \
