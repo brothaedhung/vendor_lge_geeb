@@ -68,6 +68,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/geeb/proprietary/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so:qcom \
     vendor/lge/geeb/proprietary/flp.msm8960.so:system/lib/hw/flp.msm8960.so:qcom \
     vendor/lge/geeb/proprietary/gps.msm8960.so:system/lib/hw/gps.msm8960.so:qcom \
+    vendor/lge/qcom/geeb/proprietary/nfc.default.so:system/lib/hw/nfc.default.so:qcom \
     vendor/lge/geeb/proprietary/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so:qcom \
     vendor/lge/geeb/proprietary/libadreno_utils.so:system/vendor/lib/libadreno_utils.so:qcom \
     vendor/lge/geeb/proprietary/libaudcal.so:system/lib/libaudcal.so:qcom \
@@ -188,6 +189,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/geeb/proprietary/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so:qcom \
     vendor/lge/geeb/proprietary/bcm2079x_firmware.ncd:system/vendor/firmware/bcm2079x_firmware.ncd:broadcom \
     vendor/lge/geeb/proprietary/bcm2079x_pre_firmware.ncd:system/vendor/firmware/bcm2079x_pre_firmware.ncd:broadcom \
+
 
 PRODUCT_PACKAGES := libacdbloader
 
